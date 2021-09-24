@@ -2,19 +2,19 @@
     "folders": [
         {
             "name": "1. Find the bug",
-            "path": "./find-the-bug"
+            "path": "./packages/find-the-bug"
         },
         {
             "name": "2. CSS Layout",
-            "path": "./layout"
+            "path": "./packages/layout"
         },
         {
             "name": "3. Interpolation",
-            "path": "./interpolation"
+            "path": "./packages/interpolation"
         },
         {
             "name": "4. Mapped Type",
-            "path": "./mapped-type"
+            "path": "./packages/mapped-type"
         },
     ]
 }

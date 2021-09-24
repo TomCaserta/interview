@@ -5,7 +5,7 @@ I can't seem to set up the design of my website correctly.
 I've created 3 placeholder elements for the top nav, main content and a side bar with their
 appropriate class names however they all just stack on top of each other.
 
-Modify `src/main.css` so that:
+Using (preferably) CSS grid or any other method, modify `src/main.css` so that:
 
 1) The top navigation bar should take the full width of the page and be the first element seen
 2) The side bar sits next to the main content
@@ -34,6 +34,8 @@ It should look similar to the following:
 │                │                                            │
 │                │                                            │
 └────────────────┴────────────────────────────────────────────┘
+
+Can you explain how else we could achieve this layout?
 
 ## Viewing the site
 

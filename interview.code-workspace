@@ -16,6 +16,10 @@
             "name": "4. Mapped Type",
             "path": "./packages/mapped-type"
         },
+        {
+            "name": "5. React Autocomplete",
+            "path": "./packages/react"
+        },
     ],
     "settings": {
         "liveServer.settings.multiRootWorkspaceName": "2. CSS Layout"

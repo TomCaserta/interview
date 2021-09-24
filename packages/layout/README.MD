@@ -2,7 +2,8 @@
 
 I can't seem to set up the design of my website correctly. 
 
-I've created 3 placeholder elements for the top nav, main content and a side bar with their appropriate class names however they all just stack on top of each other.
+I've created 3 placeholder elements for the top nav, main content and a side bar with their
+appropriate class names however they all just stack on top of each other.
 
 Modify `src/main.css` so that:
 
@@ -36,5 +37,5 @@ It should look similar to the following:
 
 ## Viewing the site
 
-Access URL:
+Preview URL is printed in the terminal.
 

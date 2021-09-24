@@ -16,5 +16,8 @@
             "name": "4. Mapped Type",
             "path": "./packages/mapped-type"
         },
-    ]
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "2. CSS Layout"
+    }
 }

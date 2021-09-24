@@ -4,6 +4,7 @@
         "start": "jest --watchAll"
     },
     "dependencies": {
+        "concurrently": "^6.2.1",
         "esbuild": "^0.13.2",
         "esbuild-jest": "^0.5.0",
         "jest": "^27.2.1"

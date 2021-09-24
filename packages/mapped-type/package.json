@@ -4,6 +4,7 @@
         "start": "tsc ./src/index.test-d.ts --noEmit --watch"
     },
     "dependencies": {
+        "concurrently": "^6.2.1",
         "conditional-type-checks": "^1.0.5",
         "typescript": "^4.4.3"
     }

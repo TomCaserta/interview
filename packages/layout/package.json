@@ -1,9 +1,12 @@
 {
     "name": "interview-layout",
     "scripts": {
-        "start": "cd ./src && ngrok http 3000"
+        "start": "concurrently '../../ngrok http 3000' 'npm run live --silent' 'npm run print-url --silent'",
+        "live": "live-server --port=3000 --no-browser --quiet ./src/",
+        "print-url": "node ../../scripts/get-ngrok-url.js"
     },
     "dependencies": {
-        "vite": "^2.5.10"
+        "concurrently": "^6.2.1",
+        "live-server": "1.2.1"    
     }
 }

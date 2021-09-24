@@ -38,9 +38,14 @@ Example Response:
 
 Using the fetch API pull the data from this endpoint and write a component that will, as the user types, output the auto complete items that match the the users name.
 
-Now, if you were to have to send the search term to the API as the user types, what considerations would you make? 
+Complete the App.jsx file so it functions.
 
 **Notes**:
 
 - Due to limitations of the coding platform everything is compiled in browser and React is a global. If you want to 
   access hooks please use for example `React.useState` etc. You could destructure from this as well to avoid writing `React` everywhere.
+
+
+**Bonus Question**
+
+Now, if you were to have to send the search term to the API as the user types, what considerations would you make? 

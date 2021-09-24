@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "name": "1. Find the bug",
+            "path": "./find-the-bug"
+        },
+        {
+            "name": "2. CSS Layout",
+            "path": "./layout"
+        },
+        {
+            "name": "3. Interpolation",
+            "path": "./interpolation"
+        },
+        {
+            "name": "4. Mapped Type",
+            "path": "./mapped-type"
+        },
+    ]
+}

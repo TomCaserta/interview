@@ -14,7 +14,7 @@ Can you help me find the error?
 
 ## Running the tests
 
-You can run the tests by...
+The tests should be visible on your display. They will automatically run as you save the file.
 
 ## Acceptance
 

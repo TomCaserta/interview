@@ -1,0 +1,9 @@
+{
+    "name": "layout",
+    "scripts": {
+        "start": "cd ./src && ngrok http 3000"
+    },
+    "dependencies": {
+        "vite": "^2.5.10"
+    }
+}

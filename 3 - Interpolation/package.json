@@ -10,14 +10,14 @@
     },
     "jest": {
         "transform": {
-            "^.+\\.js$": [ 
-                "esbuild-jest", 
-                { 
+            "^.+\\.js$": [
+                "esbuild-jest",
+                {
                     "sourcemap": true,
                     "loaders": {
                         ".spec.js": "js"
                     }
-                } 
+                }
             ]
         }
     }

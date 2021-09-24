@@ -1,6 +1,6 @@
 # Find the bug
 
-I've written some code to help me count lines but it doesn't seem to work. Every time I call the incrementer function I receive 
+I've written some code to help me count lines but it doesn't seem to work. Every time I call the incrementer function an error is thrown.
 
 Can you help me find the error?
 
